@@ -72,9 +72,9 @@ print(f"\nNone type: {empty_variable} (Type: {type(empty_variable)})")
 # Your code here:
 print("\nEXERCISE 1: Create your own variables")
 # Example solution:
-my_name = "Your name here"
-my_age = 25
-my_favorite_numbers = [7, 42, 99]
+name = "Chandan"
+my_age = 23
+my_favorite_numbers = [6, 11, 2001]
 print(f"My name: {my_name} (Type: {type(my_name)})")
 print(f"My age: {my_age} (Type: {type(my_age)})")
 print(f"My favorite numbers: {my_favorite_numbers} (Type: {type(my_favorite_numbers)})")
@@ -86,7 +86,7 @@ print(f"My favorite numbers: {my_favorite_numbers} (Type: {type(my_favorite_numb
 print("\nEXERCISE 2: Type conversions")
 # Your code here:
 # Example solution:
-price = 9.99
+price = 10.99
 price_int = int(price)
 answer = 42
 answer_str = str(answer)
